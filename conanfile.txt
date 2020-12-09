@@ -1,5 +1,0 @@
-[requires]
- mathlib/0.0.1@navneeth/stable
- 
- [generators]
- cmake
