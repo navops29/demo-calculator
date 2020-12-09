@@ -10,3 +10,9 @@ add_executable(calculator src/calc.cpp)
 
 target_link_libraries(calculator ${CONAN_LIBS})
  
+ install(TARGETS calculator
+        RUNTIME DESTINATION bin
+        LIBRARY DESTINATION lib
+        ARCHIVE DESTINATION lib)
+
+install(DIRECTORY include DESTINATION .)
