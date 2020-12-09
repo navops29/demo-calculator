@@ -15,4 +15,3 @@ target_link_libraries(calculator ${CONAN_LIBS})
         LIBRARY DESTINATION lib
         ARCHIVE DESTINATION lib)
 
-install(DIRECTORY include DESTINATION .)
