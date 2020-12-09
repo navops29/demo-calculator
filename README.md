@@ -141,3 +141,5 @@ calculator/0.0.1: Package 'd693506373990b4389e8bf2e95bd3fe885c279c3' created
 calculator/0.0.1: Created package revision b1dfdeedc9c7817a79fa8ce4e78ce311
 ```
 
+## References
+* https://docs.conan.io/en/latest/introduction.html
